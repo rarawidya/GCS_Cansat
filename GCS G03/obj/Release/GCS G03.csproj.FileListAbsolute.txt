@@ -1,0 +1,654 @@
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\GCS G03.exe.config
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\GCS G03.exe
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\GCS G03.pdb
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\GMap.NET.Core.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\HelixToolkit.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\M2Mqtt.Net.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\MindFusion.Licensing.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Buffers.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Memory.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Numerics.Vectors.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\ZedGraph.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\HelixToolkit.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\M2Mqtt.Net.pdb
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Buffers.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Memory.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Numerics.Vectors.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\ZedGraph.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\de\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\es\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\it\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03.csproj.SuggestedBindingRedirects.cache
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\MainWindow.g.cs
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\App.g.cs
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\App.baml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\MainWindow.baml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03.g.resources
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03.exe
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GCS G03.pdb
+C:\Users\nakou\source\repos\GCS G03\GCS G03\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\RealTimeGraphX.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\Syncfusion.Licensing.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+C:\Users\nakou\source\repos\GCS G03\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\GCS G03.exe.config
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\GCS G03.exe
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\GCS G03.pdb
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\GMap.NET.Core.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\HelixToolkit.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\M2Mqtt.Net.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\MindFusion.Licensing.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\RealTimeGraphX.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\Syncfusion.Licensing.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Buffers.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Memory.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Numerics.Vectors.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\ZedGraph.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\HelixToolkit.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\M2Mqtt.Net.pdb
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Buffers.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Memory.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Numerics.Vectors.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\ZedGraph.xml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\de\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\es\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\it\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\MainWindow.g.cs
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\App.g.cs
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\App.baml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\MainWindow.baml
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03.g.resources
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03.exe
+D:\EEPISAT\AAA NEW BANGET\GCS G03\GCS G03\obj\Release\GCS G03.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\GCS G03.exe.config
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\GCS G03.exe
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\GCS G03.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\GMap.NET.Core.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\HelixToolkit.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\M2Mqtt.Net.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MindFusion.Licensing.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\RealTimeGraphX.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\Syncfusion.Licensing.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Buffers.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Memory.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Numerics.Vectors.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\ZedGraph.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\HelixToolkit.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\M2Mqtt.Net.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Buffers.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Memory.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Numerics.Vectors.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\ZedGraph.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\de\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\es\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\it\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.csproj.SuggestedBindingRedirects.cache
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\MainWindow.g.cs
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\App.g.cs
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\App.baml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\MainWindow.baml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.g.resources
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.exe
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\GCS G03.exe.manifest
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\GCS G03.application
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.exe.manifest
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\GCS G03.application
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MaterialDesignColors.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MaterialDesignColors.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\DialogBox\AppDialogBox.g.cs
+C:\Users\nakou\source\repos\GCS\GCS G03\GCS G03\obj\Release\DialogBox\AppDialogBox.baml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.config
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.manifest
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.application
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.Core.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Licensing.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.Licensing.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.xml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\de\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\es\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\it\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.SuggestedBindingRedirects.cache
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\App.baml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.g.cs
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.g.cs
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\App.g.cs
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.baml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.baml
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.g.resources
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe.manifest
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.application
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe
+C:\Users\nakou\source\repos\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.pdb
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.config
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.manifest
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.application
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.pdb
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.Core.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Licensing.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.Licensing.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.pdb
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.pdb
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.xml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\de\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\es\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\it\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.SuggestedBindingRedirects.cache
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\App.baml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.g.cs
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.g.cs
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\App.g.cs
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.baml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.baml
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.g.resources
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe.manifest
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.application
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe
+D:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.pdb
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.config
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.manifest
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.application
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.pdb
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.Core.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Licensing.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.Licensing.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.pdb
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.pdb
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.xml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\de\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\es\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\it\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.SuggestedBindingRedirects.cache
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\App.baml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.g.cs
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.g.cs
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\App.g.cs
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.baml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.baml
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.g.resources
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe.manifest
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.application
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.pdb
+E:\Project\C#_WF\GCS\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.WindowsPresentation.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.config
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.manifest
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.application
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.pdb
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.Core.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.WindowsPresentation.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Licensing.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.Licensing.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.pdb
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.pdb
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.xml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\de\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\es\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\it\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\App.baml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.g.cs
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.g.cs
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\App.g.cs
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.baml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.baml
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.g.resources
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe.manifest
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.application
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe
+D:\EEPISAT\A BARU BANGET FIX REVISI\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.config
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe.manifest
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.application
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.exe
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GCS G03.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.Core.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\GMap.NET.WindowsPresentation.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Licensing.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.Licensing.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\M2Mqtt.Net.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignColors.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Buffers.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Memory.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Numerics.Vectors.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\ZedGraph.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\de\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\es\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\it\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\App.baml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.g.cs
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.g.cs
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\App.g.cs
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\DialogBox\AppDialogBox.baml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\MainWindow.baml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.g.resources
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe.manifest
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.application
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.exe
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\NonMQTT\GCS G03 - Mqtt\GCS G03\obj\Release\GCS G03.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\GCS G03.exe.config
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\GCS G03.exe.manifest
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\GCS G03.application
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\GCS G03.exe
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\GCS G03.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\DotNetProjects.DataVisualization.Toolkit.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\GMap.NET.Core.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\GMap.NET.WindowsForms.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\GMap.NET.WindowsPresentation.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\HelixToolkit.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\HelixToolkit.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\M2Mqtt.Net.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\M2MqttClientDotnetCore1.0.1.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MaterialDesignColors.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MindFusion.Charting.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MindFusion.Gauges.Wpf.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MindFusion.Licensing.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\RealTimeGraphX.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\RealTimeGraphX.WPF.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\Syncfusion.Licensing.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\Syncfusion.SfChart.WPF.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Buffers.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Memory.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Numerics.Vectors.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\ZedGraph.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\HelixToolkit.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\HelixToolkit.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\M2Mqtt.Net.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MaterialDesignColors.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MindFusion.Charting.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\MindFusion.Gauges.Wpf.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\RealTimeGraphX.WPF.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\Syncfusion.SfChart.WPF.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Buffers.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Memory.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Numerics.Vectors.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\ZedGraph.xml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\de\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\es\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\fr\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\hu\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\it\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\ja\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\pt\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\ru\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\sk\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\sv\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\tr\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.csproj.AssemblyReference.cache
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\App.baml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\DialogBox\AppDialogBox.g.cs
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\MainWindow.g.cs
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\App.g.cs
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03_MarkupCompile.cache
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03_MarkupCompile.lref
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\DialogBox\AppDialogBox.baml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\MainWindow.baml
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.g.resources
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS_G03.Properties.Resources.resources
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.csproj.GenerateResource.cache
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.csproj.CoreCompileInputs.cache
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.exe.manifest
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.application
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.csproj.CopyComplete
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.exe
+D:\EEPISAT\A BARU BANGET FIX FIX FIX\GCS G03\GCS G03\obj\Release\GCS G03.pdb
